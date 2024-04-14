@@ -1,6 +1,9 @@
 # NgRxOrchestrator
 
-> The library is in early development
+A Powerful State Management Toolkit for Angular
+
+
+> The library is in early development!
 
 ## What is NgRxOrchestrator?
 

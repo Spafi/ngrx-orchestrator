@@ -1,7 +1,7 @@
 {
-    "name": "ngrx-orchestrator",
+    "name": "@spaf/ngrx-orchestrator",
     "version": "1.0.0",
-    "description": "",
+    "description": "A Powerful State Management Toolkit for Angular",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
@@ -23,7 +23,7 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Spafi/ngrx-orchestrator.git"
+        "url": "git+https://github.com/Spafi/ngrx-orchestrator.git"
     },
     "devDependencies": {
         "ts-node": "^10.9.2",
@@ -33,5 +33,9 @@
     "dependencies": {
         "@ngrx/store": "^17.2.0",
         "immer": "^10.0.4"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/Spafi/ngrx-orchestrator/issues"
+    },
+    "homepage": "https://github.com/Spafi/ngrx-orchestrator#readme"
 }
